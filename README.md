@@ -1,6 +1,5 @@
-<p align="center"><img src="Logo-sm.png" alt="LOGO">
+<p align="center"><img src="Logo-lg.png" alt="LOGO">
 </p>
-<br>
-<p align="center">
-Assignment-Pro
-</p>
+
+# Assignment-Pro
+
