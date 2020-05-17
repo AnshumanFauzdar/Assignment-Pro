@@ -1,5 +1,4 @@
-<p align="center"><img src="Logo-lg.png" alt="LOGO">
-</p>
+<center><img src="Logo-lg.png" alt="LOGO"></center>
 
 # Assignment-Pro
 
