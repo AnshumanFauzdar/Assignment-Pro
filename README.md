@@ -24,13 +24,13 @@ This repo will be divided in 2 sections - SOFTWARE and HARDWARE
 
 # Software
 
-To start with such application we need a frontend and backend 
+To start with such application we need a frontend and backend.
 
 ## Front-End
-Frotend of choice is react, which can be run on multiple platforms without any hassle and provide all modular designs required for a frontend
+Frontend of choice is react, which can be run on multiple platforms without any hassle and provide all modular designs required for a frontend
 
 ## Back-End
-Backend of choice is python which will utilise multiple structures such as openCV and other modules which will be helpful in completing the task
+Backend of choice is python, which will utilise multiple structures such as openCV and other modules which will be helpful in completing the task.
 
 # Hardware
 
