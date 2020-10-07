@@ -1,6 +1,7 @@
 <center><img src="Logo-lg.png" alt="LOGO"></center>
 
 # Our Idea and objective
+
 Every college student have to write assignments and files in every semester and it is a time-consuming task which can be used for other useful tasks like learning new language or doing some other hobby than writing same thing and not learning any thing!
 There are many OCR out there which can scan your document and give you text which you can copy paste and there are many assignment makers which take text and convert to handwriting like [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) 
 But all of these projects lack basic functionality which will be covered here:
